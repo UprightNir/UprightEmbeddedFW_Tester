@@ -1,0 +1,10 @@
+
+[:platform_system == "Darwin"]
+pyobjc
+pyobjc-framework-CoreBluetooth
+
+[:platform_system == "Linux"]
+txdbus
+
+[:platform_system == "Windows"]
+pythonnet
