@@ -1,0 +1,7 @@
+Start Scenario :0
+Short Push Button 
+Connect to btool
+Double Push button
+Move to Angle : 60
+End Of Scenario :0
+Result of Scenario :0-> Pass

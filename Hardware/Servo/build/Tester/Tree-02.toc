@@ -1,0 +1,5 @@
+('C:\\Users\\Ibrahim\\PycharmProjects\\TrainTester - GO 2\\build\\Tester\\pyserial-3.4-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.pyd', '*.pyw', 'EGG-INFO']),
+ 'DATA',
+ [])
